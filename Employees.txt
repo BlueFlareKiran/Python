@@ -1,0 +1,6 @@
+John Smith - Software Engineer
+Alice Johnson - Data Analyst
+Robert Brown - Project Manager
+Emily Davis - Graphic Designer
+Michael Wilson - Marketing Specialist
+Toby - Data Scientist
